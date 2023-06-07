@@ -367,7 +367,6 @@ Novu is licensed under the MIT License - see the [LICENSE](https://github.com/no
 | <img src="https://avatars.githubusercontent.com/krshkodes?v=3&s=48" width="60" height="60" alt="krshkodes" /> | krshkodes | 1 | https://novu.co/contributors/krshkodes |
 | <img src="https://avatars.githubusercontent.com/PapuleX?v=3&s=48" width="60" height="60" alt="PapuleX" /> | PapuleX | 1 | https://novu.co/contributors/PapuleX |
 | <img src="https://avatars.githubusercontent.com/wouter-toppy?v=3&s=48" width="60" height="60" alt="wouter-toppy" /> | wouter-toppy | 1 | https://novu.co/contributors/wouter-toppy |
-| <img src="https://avatars.githubusercontent.com/Codepowercode?v=3&s=48" width="60" height="60" alt="Codepowercode" /> | Codepowercode | 1 | https://novu.co/contributors/Codepowercode |
 | <img src="https://avatars.githubusercontent.com/roman-utila?v=3&s=48" width="60" height="60" alt="roman-utila" /> | roman-utila | 1 | https://novu.co/contributors/roman-utila |
 | <img src="https://avatars.githubusercontent.com/asparuhkostov?v=3&s=48" width="60" height="60" alt="asparuhkostov" /> | asparuhkostov | 1 | https://novu.co/contributors/asparuhkostov |
 | <img src="https://avatars.githubusercontent.com/deep-bhatt-pmc?v=3&s=48" width="60" height="60" alt="deep-bhatt-pmc" /> | deep-bhatt-pmc | 1 | https://novu.co/contributors/deep-bhatt-pmc |
@@ -524,6 +523,7 @@ Novu is licensed under the MIT License - see the [LICENSE](https://github.com/no
 | <img src="https://avatars.githubusercontent.com/codesee-maps[bot]?v=3&s=48" width="60" height="60" alt="codesee-maps[bot]" /> | codesee-maps[bot] | 1 | https://novu.co/contributors/codesee-maps[bot] |
 | <img src="https://avatars.githubusercontent.com/Agathe-Brusset?v=3&s=48" width="60" height="60" alt="Agathe-Brusset" /> | Agathe-Brusset | 1 | https://novu.co/contributors/Agathe-Brusset |
 | <img src="https://avatars.githubusercontent.com/RobertoCassino?v=3&s=48" width="60" height="60" alt="RobertoCassino" /> | RobertoCassino | 1 | https://novu.co/contributors/RobertoCassino |
+| <img src="https://avatars.githubusercontent.com/Codepowercode?v=3&s=48" width="60" height="60" alt="Codepowercode" /> | Codepowercode | 1 | https://novu.co/contributors/Codepowercode |
 | <img src="https://avatars.githubusercontent.com/chauandrew?v=3&s=48" width="60" height="60" alt="chauandrew" /> | chauandrew | 1 | https://novu.co/contributors/chauandrew |
 | <img src="https://avatars.githubusercontent.com/kylegalbraith?v=3&s=48" width="60" height="60" alt="kylegalbraith" /> | kylegalbraith | 1 | https://novu.co/contributors/kylegalbraith |
 | <img src="https://avatars.githubusercontent.com/Ananya2001-an?v=3&s=48" width="60" height="60" alt="Ananya2001-an" /> | Ananya2001-an | 1 | https://novu.co/contributors/Ananya2001-an |
